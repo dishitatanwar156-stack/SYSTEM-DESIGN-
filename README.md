@@ -57,17 +57,17 @@ Maintainability: Easy to update or fix.
 
 
 # keywords ( terms to know )
-load balancers : hardware and software ( two types ) 
-databases : sQl and no sQl 
-cap theorem 
-redundancy and replication 
-caching 
-sharing and data partition 
-indexes and queues 
-hashing
-polling  
-web sockets 
-server sent events (SSE)
+1. load balancers : hardware and software ( two types ) 
+2. databases : sQl and no sQl 
+3. cap theorem 
+4. redundancy and replication 
+5. caching 
+6. sharing and data partition 
+7. indexes and queues 
+8. hashing
+9. polling  
+10. web sockets 
+11. server sent events (SSE)
 
 
 
